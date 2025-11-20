@@ -17,10 +17,10 @@ This repository contains two advanced deep reinforcement learning algorithms (TD
 
 ## Performance
 
-| Algorithm | Average Reward | Training Stability | Sample Efficiency |
-|-----------|----------------|-------------------|------------------|
-| TD3       | ~250-300       | High              | Good             |
-| DDPG      | ~200-250       | Moderate          | Moderate         |
+| Algorithm | Average Reward | Training Stability |
+|-----------|----------------|-------------------|
+| TD3       | ~70-100        | High              |
+| DDPG      | ~250-280       | Low               |
 
 ---
 
