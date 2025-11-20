@@ -1,4 +1,4 @@
-# Bipedal_Walker_Reinforcement_Learning
+# BipedalWalkerReinforcementLearning
 **TD3 and DDPG implementations for solving the BipedalWalker environment**
 
 ---
